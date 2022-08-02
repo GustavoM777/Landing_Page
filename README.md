@@ -32,6 +32,6 @@
 <br><br>
 <hr>
 
-Made with 💙 by Gustavo Mattos 👋 [See my LinkedIn](linkedin.com/in/guh-mattos/)
+Made with 💙 by Gustavo Mattos 👋 [See my LinkedIn](https://www.linkedin.com/in/guh-mattos/)
 
 
